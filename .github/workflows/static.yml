@@ -12,8 +12,8 @@
             background-color: #f4f4f4;
         }
         header {
-            background-color: #333;
-            color: white;
+            background-color: #000;
+            color: black;
             padding: 10px;
             text-align: center;
         }
@@ -22,7 +22,7 @@
             padding: 10px;
         }
         nav a {
-            color: white;
+            color: black;
             text-decoration: none;
             padding: 10px;
         }
@@ -30,8 +30,8 @@
             padding: 20px;
         }
         footer {
-            background-color: #333;
-            color: white;
+            background-color: #000;
+            color: black;
             text-align: center;
             padding: 10px;
             position: fixed;
@@ -43,13 +43,11 @@
 <body>
 
 <header>
-    <h1>Welcome to My Simple Website</h1>
+    <h1>p5 web 🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️🧏🏿‍♂️</h1>
 </header>
 
 <nav>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
+    <a href="#giat">sikma</a>
 </nav>
 
 <section id="home">
